@@ -11,6 +11,8 @@ body{
 header{
     background-color: black;
     color: white;
+    overflow: hidden;
+
 }
 
 header h1{
@@ -63,7 +65,7 @@ footer{
     bottom: 0;
     background-color: black;
     color: grey;
-    width: 100%;
+    max-width: 100%;
     height: 4em;
 }
 
